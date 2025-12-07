@@ -1,0 +1,15 @@
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+GeneratedPluginRegistrant.*
+.macos/Flutter/ephemeral/
+*.keystore
+.idea/
+*.iml
+.vscode/
+pubspec.lock
+android/.gradle/
+android/app/*.keystore
